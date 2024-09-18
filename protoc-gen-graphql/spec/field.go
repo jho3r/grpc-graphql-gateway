@@ -8,7 +8,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	descriptor "github.com/golang/protobuf/protoc-gen-go/descriptor"
 	"github.com/iancoleman/strcase"
-	"github.com/ysugimoto/grpc-graphql-gateway/graphql"
+	"github.com/jho3r/grpc-graphql-gateway/graphql"
 )
 
 // Field spec wraps FieldDescriptorProto with keeping file info

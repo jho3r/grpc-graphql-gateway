@@ -5,7 +5,7 @@ import (
 	"context"
 
 	"github.com/graphql-go/graphql"
-	"github.com/ysugimoto/grpc-graphql-gateway/runtime"
+	"github.com/jho3r/grpc-graphql-gateway/runtime"
 	"google.golang.org/grpc"
 )
 
